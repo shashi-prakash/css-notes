@@ -1,0 +1,12 @@
+1> justify-content
+This propert arrange the items accordingly x-axis direction.
+
+2> Align-items
+This propert arrange the items accordingly y-axis direction.
+
+--------------------------notes-----------------
+1. This property works when we use display flex propert.
+2. To show items verically and horizontally we use
+a> display:flex,
+   justify-content:center;
+   align-item:center
