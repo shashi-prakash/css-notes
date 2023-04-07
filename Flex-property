@@ -5,7 +5,7 @@ This propert arrange the items accordingly x-axis direction.
 This propert arrange the items accordingly y-axis direction.
 
 --------------------------notes-----------------
-1. This property works when we use display flex propert.
+1. This property works when we use display flex property.
 2. To show items verically and horizontally we use
 a> display:flex,
    justify-content:center;
