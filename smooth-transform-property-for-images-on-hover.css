@@ -1,0 +1,19 @@
+/* for zoom effects with images */
+img{
+    transform:scale(0.8);
+}
+
+/* for rotate */
+img{
+    transform:rotate(20deg);
+}
+
+.item{
+ transform: skew(15deg, 10deg);   
+}
+.item{
+    transform: translate(10px, 4px);
+}
+.item{
+    transform: matrix(0,1,1,0,0,0);
+}

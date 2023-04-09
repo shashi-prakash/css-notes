@@ -1,0 +1,9 @@
+.main p, .content p{
+    background-color: blue;
+}
+
+/* new style */
+
+:is(.main, .content)p{
+    background-color: blue;
+}
